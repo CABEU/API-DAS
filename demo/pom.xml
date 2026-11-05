@@ -8,11 +8,11 @@
 		<version>4.1.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>br.com.sistemas</groupId>
+	<artifactId>chamados</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+	<name>chamados</name>
+	<description>API do Sistema de Chamados - DAS Univille</description>
 	<url/>
 	<licenses>
 		<license/>
